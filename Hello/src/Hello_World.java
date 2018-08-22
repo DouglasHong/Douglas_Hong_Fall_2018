@@ -1,7 +1,7 @@
 
 public class Hello_World {
 	/**
-	 * Print out a message saying Hello!
+	 * Print out a message saying Hello World!
 	 * 
 	 * @author Douglas Hong
 	 * @version 8/17/2018
