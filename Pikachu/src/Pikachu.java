@@ -1,8 +1,8 @@
 /**
 	 * Prints out a message to the console window saying  
 	 * Pikachu welcomes you to the world of Pokemon!
-	 * 					(\__/)
-	 * 					(o^.^)
+	 * 					 (\__/)
+	 * 					 (o^.^)
 	 * 			  	   z(_(")(")
 	 *
 	 * @author Douglas Hong
